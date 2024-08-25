@@ -1,0 +1,148 @@
+[{
+  "_id": {
+    "$oid": "65f009a92fb55179008766b7"
+  },
+  "id": 5,
+  "name": "Vivo Y17s",
+  "price": 3400000,
+  "categoryId": 2,
+  "img": "5.webp",
+  "description": " vivo Y17s (4GB/64GB) là một sản phẩm của vivo trong dòng Y được bán chính hãng tại Việt Nam, thu hút được nhiều người dùng bởi giá bán rẻ nhưng cấu hình ổn trong phân khúc, những điểm nổi bật có thể kể đến như: Vi xử lý MediaTek Helio G85, camera 50 MP và pin 5000 mAh.",
+  "hot": 0
+},
+{
+  "_id": {
+    "$oid": "65f009a92fb55179008766b8"
+  },
+  "id": 6,
+  "name": "Laptop Apple MacBook Pro",
+  "price": 31000000,
+  "categoryId": 1,
+  "img": "20.webp",
+  "description": "Sở hữu thiết kế thanh lịch, sang trọng cùng hiệu năng vượt trội đến từ bộ vi xử lý Apple M2 tân tiến, Macbook Pro M2 hứa hẹn sẽ đáp ứng hoàn hảo cho người dùng sáng tạo, phục vụ tốt cho các nhu cầu thiết kế đồ họa nâng cao.",
+  "hot": 1
+},
+{
+  "_id": {
+    "$oid": "65f1afbb97ebc5e1ad8a8fbf"
+  },
+  "id": 7,
+  "name": "Laptop Dell Inspiron 15 3520 ",
+  "price": "40000000",
+  "categoryId": "1",
+  "img": "8.webp",
+  "description": "laptop",
+  "hot": 0
+},
+{
+  "_id": {
+    "$oid": "65f1b4a347333f6f0f7346eb"
+  },
+  "id": 9,
+  "name": "Laptop Lenovo Ideapad",
+  "price": 13190000,
+  "categoryId": 1,
+  "img": "9.webp",
+  "description": "mang phong cách thiết kế hiện đại kết hợp cùng hiệu năng mạnh mẽ từ bộ vi xử lý Intel Gen 12",
+  "hot": 0
+},
+{
+  "_id": {
+    "$oid": "65f1b4fabb727973ac64d16b"
+  },
+  "id": 10,
+  "name": "Điện thoại Samsung Galaxy S24 ",
+  "price": 32450000,
+  "categoryId": 2,
+  "img": "10.webp",
+  "description": "mẫu điện thoại cao cấp được ra mắt vào đầu năm 2024, sản phẩm tiếp tục kế thừa và cải tiến từ thế hệ trước",
+  "hot": 1
+},
+{
+  "_id": {
+    "$oid": "65f1b5488ad302dbe0535d72"
+  },
+  "id": 11,
+  "name": "Chuột Có Dây Gaming",
+  "price": 250000,
+  "categoryId": 3,
+  "img": "21.webp",
+  "description": "sở hữu thiết kế công thái học vừa vặn, êm tay, chuột có độ phân giải cao lên đến 7200 DPI cho các game thủ thao tác nhanh nhạy, chính xác, đem đến trải nghiệm sử dụng tuyệt vời.",
+  "hot": 1
+},
+{
+  "_id": {
+    "$oid": "65f1b5a50fcffa11ee3c6cee"
+  },
+  "id": 12,
+  "name": "Laptop MSI Modern",
+  "price": 12900000,
+  "categoryId": 1,
+  "img": "12.webp",
+  "description": "là sự lựa chọn lý tưởng để đồng hành cùng với các bạn tân sinh viên hay thậm chí là nhân viên văn phòng",
+  "hot": 1
+},
+{
+  "_id": {
+    "$oid": "65f1b60c8446c30a584e2624"
+  },
+  "id": 13,
+  "name": "Điện thoại OPPO A57 128GB ",
+  "price": 3890000,
+  "categoryId": 2,
+  "img": "13.webp",
+  "description": "Khác với mẫu A57 5G đã được ra mắt trước đó, điện thoại dòng A mới có màn hình HD+, camera chính 13 MP và pin 5000 mAh.",
+  "hot": 1
+},
+{
+  "_id": {
+    "$oid": "65f1b6be1d798b21373818e7"
+  },
+  "id": 14,
+  "name": "Laptop Acer Nitro 5",
+  "price": 22900000,
+  "categoryId": 1,
+  "img": "14.webp",
+  "description": "khi trang bị bộ vi xử lý Intel Gen 12 đầy mạnh mẽ cùng phong cách thiết kế đậm chất “mãnh hổ”",
+  "hot": 1,
+  "new": 2
+},
+{
+  "_id": {
+    "$oid": "65f71ac6169e94ea5072817b"
+  },
+  "id": 15,
+  "name": "iPhone 12 ",
+  "price": 12090000,
+  "categoryId": 2,
+  "img": "15.webp",
+  "description": "Trong những tháng cuối năm 2020, Apple đã chính thức giới thiệu đến người dùng cũng như iFan thế hệ iPhone 12 series mới với hàng loạt tính năng bứt phá, thiết kế được lột xác hoàn toàn, hiệu năng đầy mạnh mẽ và một trong số đó chính là iPhone 12 64GB.",
+  "hot": 0,
+  "new": 2
+},
+{
+  "_id": {
+    "$oid": "65f71b00169e94ea5072817c"
+  },
+  "id": 16,
+  "name": "Ốp lưng iPhone 15 Pro Max",
+  "price": 1050000,
+  "categoryId": 3,
+  "img": "17.webp",
+  "description": "Sở hữu thiết kế nổi bật với gam màu bắt mắt, ốp lưng iPhone 15 Pro Max sẽ là món phụ kiện cần thiết cho người dùng.",
+  "hot": 1,
+  "new": 2
+},
+{
+  "_id": {
+    "$oid": "65f71b6c169e94ea5072817d"
+  },
+  "id": 17,
+  "name": "Laptop Acer Aspire 3",
+  "price": 6490000,
+  "categoryId": 1,
+  "img": "19.webp",
+  "description": "Laptop Acer Aspire 3 A314 35 C3KS N5100 (NX.A7SSV.009) với thiết kế mỏng nhẹ, hiệu năng ổn định đi cùng mức giá hợp lý, chắc chắn sẽ đáp ứng được các nhu cầu làm việc và giải trí của người dùng.",
+  "hot": 1,
+  "new": 2
+}]
